@@ -1,8 +1,8 @@
-# corso.net
+# curso.net
 proyeco de . net basico
-## Comando para compilar proyecto:
+### Comando para compilar proyecto:
 botnet build
 
-## Comando para ejecutar proyecto:
+### Comando para ejecutar proyecto:
 botnet run
 
